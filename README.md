@@ -9,3 +9,7 @@ In this project includes
 6.copy right section
 
 This is made with the help of HTML CSS JS 
+
+Through this project , I learned the usuage of adding logo through external website like font awesome.
+making site responsive through flex 
+and resing the image without losing its pixles.
