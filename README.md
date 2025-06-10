@@ -8,6 +8,8 @@ In this project includes
 5. explain about using diffrent technologies
 6.copy right section
 
+
+
 This is made with the help of HTML CSS JS 
 
 Through this project , I learned the usuage of adding logo through external website like font awesome.
