@@ -14,6 +14,8 @@
  let about = document.querySelector(".about");
 console.log("gg");
 
+
+
 // cards.style.remove();
     getst.addEventListener('click',move );
 
